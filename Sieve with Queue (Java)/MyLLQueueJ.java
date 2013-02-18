@@ -1,3 +1,4 @@
+// Zachariah Kendall
 // Here I wrote my own queue that implements the Queue interface.
 // For this I had to write my own iterator, which was a learning experience.
 // This took longer than I expected.

@@ -1,4 +1,4 @@
-    // Sieve3 is also the same but uses MyLLQueueJ
+// Sieve3 is also the same but uses MyLLQueueJ
 //
 
 import java.util.Iterator;

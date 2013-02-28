@@ -1,0 +1,3 @@
+This assignment was for my Java Foundations II class last November, 2012. We were to write a linked list who's nodes held ints. Our professor introduced linked lists to us, and it was the first time any of us had been exposed to them. They immediately made sense to me. I went home and wrote and finished the linked list assignment after the first day, even though he lectured on linked lists for another week before other students grasped the concept--and many still struggle with them.
+
+Though we were only asked, and showed, how to write a linked list for a specific datatype. I taugh myself how to use generics and modified my linked list to be typed to hold any object type.

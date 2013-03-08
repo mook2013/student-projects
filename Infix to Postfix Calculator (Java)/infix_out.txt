@@ -1,0 +1,40 @@
+//a copy of output sent to standard out...
+// input symbol table was: A 77, B 55, C 40, D 15, E 7, F 1, G 5, H -10, I -69, 
+// J 33, K 125, M 9, N 222, P 33, Q 2, R -1, X 2, W 20, Z 500
+
+Infix Expression (given):  A-B
+Converted Postfix Expression:  AB-
+Result:  22
+
+Infix Expression (given):  A+B
+Converted Postfix Expression:  AB+
+Result:  132
+
+Infix Expression (given):  A-(B+C)
+Converted Postfix Expression:  ABC+-
+Result:  -18
+
+Infix Expression (given):  R*(P-H)
+Converted Postfix Expression:  RPH-*
+Result:  -43
+
+Infix Expression (given):  C^(D-E/G)^X
+Converted Postfix Expression:  CDEG/-X^^
+Result:  1008691358627698667834343426563676513410041325323915434699476311148690
+4773503285916522052161250538404046496765518544896000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000000000000000000000000000000000
+00000000
+
+Infix Expression (given):  D-(((C+D-G)-H)+F)
+Converted Postfix Expression:  DCD+G-H-F+-
+Result:  -46
+
+Infix Expression (given):  (J-K)*(X-I^G+F)/Z
+Converted Postfix Expression:  JK-XIG^-F+*Z/
+Result:  -287781768
+
+Infix Expression (given):  (((X+Z-H-I)*X)+W/(Z+X)/(Z^X))
+Converted Postfix Expression:  XZ+H-I-X*WZX+/ZX^/+
+Result:  1162
+
